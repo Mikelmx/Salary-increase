@@ -5,4 +5,4 @@
 
 
 
-Salary increase of a employee over a period of x years.
+Salary increase of an employee over a period of x years.
